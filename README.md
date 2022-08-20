@@ -24,8 +24,9 @@ you can get following data using the api :
 
 the only thing you need to do is to change the variable to something you whant like the following exaple's:
 
-json["name"] (console.log(json["name"]);) to output 
-json["id"]  (console.log(json["id"]);) to output 
+	json["name"] (console.log(json["name"]);) to output 
+
+	json["id"]  (console.log(json["id"]);) to output 
 
  How to get your api token:
 
